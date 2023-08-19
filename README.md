@@ -1,3 +1,4 @@
+![logo](https://github.com/ManishDodeja/ManishDodeja/blob/main/Cover-page.png)
 <h1 align="center">Hi 👋, I'm Manish Dodeja</h1>
 <h3 align="center">A passionate Mobile app developer from Pakistan</h3>
 
