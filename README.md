@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishdodeja&label=Profile%20views&color=0e75b6&style=flat" alt="manishdodeja" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Kotlin, Java, Android Development, Python, Data Science, Machine Learning**
+- 💬 Ask me about **LLM's, RAG, Agentic AI, Python, Data Science, Machine Learning**
 
 - 📫 How to reach me **manishdodejaofficial@gmail.com**
 
