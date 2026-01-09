@@ -1,13 +1,13 @@
-![logo](https://github.com/ManishDodeja/ManishDodeja/blob/main/Cover-page.png)
-<h1 align="center">Hi 👋, I'm Manish Dodeja</h1>
-<h3 align="center">A Passionate Mobile app developer</h3>
+![logo](https://github.com/ManishDodeja/ManishDodeja/blob/main/cover.png)
+<h1 align="center">Hi 👋, I'm Manesh Kumar</h1>
+<h3 align="center">A Passionate Ai/ML Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishdodeja&label=Profile%20views&color=0e75b6&style=flat" alt="manishdodeja" /> </p>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Generative AI and Agentic AI**
 
 - 💬 Ask me about **LLM's, RAG, Agentic AI, Python, Data Science, Machine Learning**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OuV2J7qZ9TJqu9312bEI3H5eIfkaL815/view?usp=drive_link](https://drive.google.com/file/d/1OuV2J7qZ9TJqu9312bEI3H5eIfkaL815/view?usp=drive_link)
 
-- ⚡ Fun fact **I think i'm Funny 😝**
+- ⚡ Fun fact **I think i'm Extrovert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
